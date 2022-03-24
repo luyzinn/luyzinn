@@ -3,7 +3,7 @@
 - 🔭 Hoje estudo Análise e Desenvolvimento de Sistemas
 - 🌱 Estudo Front-End com Java Script, HTML e CSS e Python para banco de Dados
 - 💬 Contate-me no email: luizlyma@live.com
-- 😄 Pronouns: Ele, Dele
+
 
 <div align="center">
   <a href="https://github.com/luyzinn">
